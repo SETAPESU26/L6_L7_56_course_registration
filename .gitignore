@@ -1,2 +1,8 @@
 __pycache__/
 .venv/
+
+# Coverage and Python cache files
+.coverage
+__pycache__/
+.pytest_cache/
+.venv/
